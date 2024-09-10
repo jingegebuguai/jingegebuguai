@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jingegebuguai&show_icons=true" align=right />
 </picture>
 
-- 👋 Hi, I’m @bite-izumi
+- 👋 Hi, I’m jingegebuguai
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning everything i like.
 - 💞️ I’m looking to collaborate on ...
